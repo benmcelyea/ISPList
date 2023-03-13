@@ -1,34 +1,32 @@
-{
-  "ISPList": [
-    {
-      "Name": "Google LLC",
-      "Attention": "Google Legal",
-      "Address": "1600 Amphitheatre Parkway",
-      "City": "Mountain View",
-      "State": "CA",
-      "Zip": "94043",
-      "Phone": "844-383-8524",
-      "Email": ""
-    },
-    {
-      "Name": "Verizon",
-      "Attention": "VSAT",
-      "Address": "180 Washington Valley Road",
-      "City": "Bedminster",
-      "State": "NJ",
-      "Zip": "07921",
-      "Phone": "888-667-0026",
-      "Email": "VSAT-lea-accounts-admin@verizon.com"
-    },
-    {
-      "Name": "Yahoo Inc",
-      "Attention": "Custodian of Records",
-      "Address": "1199 Coleman Avenue",
-      "City": "San Jose",
-      "State": "CA",
-      "Zip": "95110",
-      "Phone": "",
-      "Email": ""
-    }
-  ]
-}
+[
+  {
+    "Name": "Google LLC",
+    "Attention": "Google Legal",
+    "Address": "1600 Amphitheatre Parkway",
+    "City": "Mountain View",
+    "State": "CA",
+    "Zip": "94043",
+    "Phone": "844-383-8524",
+    "Email": ""
+  },
+  {
+    "Name": "Verizon",
+    "Attention": "VSAT",
+    "Address": "180 Washington Valley Road",
+    "City": "Bedminster",
+    "State": "NJ",
+    "Zip": "07921",
+    "Phone": "888-667-0026",
+    "Email": "VSAT-lea-accounts-admin@verizon.com"
+  },
+  {
+    "Name": "Yahoo Inc",
+    "Attention": "Custodian of Records",
+    "Address": "1199 Coleman Avenue",
+    "City": "San Jose",
+    "State": "CA",
+    "Zip": "95110",
+    "Phone": "",
+    "Email": ""
+  }
+]
